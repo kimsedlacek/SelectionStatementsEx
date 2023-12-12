@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "3Tvo9yJ4aczJdpLVSP+ztfk6NotJdneq3XhL8K4yCBybKkUqxhi1b7YAzE/K2W8KYyp8B9+5FjsCmhNsWmnjqA==",
+  "dgSpecHash": "WSaNqDUNBwW7pL+jirdVmEbDmocxC4n5L3GuWsjUe/LLxWAL34aUFryIiuA6xBpLA2+/T6GNdpZiJ3wWU9kcMg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\Desktop\\repos\\Selection-Statements-Exercise\\SelectionStatementExercise\\SelectionStatementExercise.csproj",
+  "projectFilePath": "C:\\Users\\User\\Desktop\\repos\\SelectionStatementsEx\\SelectionStatementExercise\\SelectionStatementExercise.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\6.0.24\\microsoft.netcore.app.host.win-x86.6.0.24.nupkg.sha512"
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\6.0.25\\microsoft.netcore.app.host.win-x86.6.0.25.nupkg.sha512"
   ],
   "logs": []
 }

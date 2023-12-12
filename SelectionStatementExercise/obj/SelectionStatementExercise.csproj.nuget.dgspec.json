@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\repos\\Selection-Statements-Exercise\\SelectionStatementExercise\\SelectionStatementExercise.csproj": {}
+    "C:\\Users\\User\\Desktop\\repos\\SelectionStatementsEx\\SelectionStatementExercise\\SelectionStatementExercise.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\repos\\Selection-Statements-Exercise\\SelectionStatementExercise\\SelectionStatementExercise.csproj": {
+    "C:\\Users\\User\\Desktop\\repos\\SelectionStatementsEx\\SelectionStatementExercise\\SelectionStatementExercise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\repos\\Selection-Statements-Exercise\\SelectionStatementExercise\\SelectionStatementExercise.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\repos\\SelectionStatementsEx\\SelectionStatementExercise\\SelectionStatementExercise.csproj",
         "projectName": "SelectionStatementExercise",
-        "projectPath": "C:\\Users\\User\\Desktop\\repos\\Selection-Statements-Exercise\\SelectionStatementExercise\\SelectionStatementExercise.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\repos\\SelectionStatementsEx\\SelectionStatementExercise\\SelectionStatementExercise.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\repos\\Selection-Statements-Exercise\\SelectionStatementExercise\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\repos\\SelectionStatementsEx\\SelectionStatementExercise\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,8 +52,20 @@
           "warn": true,
           "downloadDependencies": [
             {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.25, 6.0.25]"
+            },
+            {
               "name": "Microsoft.NETCore.App.Host.win-x86",
-              "version": "[6.0.24, 6.0.24]"
+              "version": "[6.0.25, 6.0.25]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.25, 6.0.25]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.25, 6.0.25]"
             }
           ],
           "frameworkReferences": {
@@ -61,7 +73,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     }

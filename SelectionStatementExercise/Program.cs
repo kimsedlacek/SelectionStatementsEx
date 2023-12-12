@@ -4,30 +4,25 @@
     {
         static void Main(string[] args)
         {
-            int favNumber = 56;
+            int favNumber = 8;
 
-            Console.WriteLine("Try to guess my favorite number");
-            var userInput = int.Parse(Console.ReadLine());
 
-            if (userInput < favNumber)
+            Console.WriteLine("Guess my favorite number.");
+            int guess = int.Parse(Console.ReadLine());
+
+            if (guess < favNumber)
             {
-                Console.WriteLine($"{userInput} is too low, try again.");
+                Console.WriteLine("to low");
             }
-                
-            else if (userInput > favNumber)
+            else if (guess > favNumber)
             {
-                Console.WriteLine($" {userInput} is too high, try again.");
+                Console.WriteLine("too high");
             }
-               
             else
             {
-                Console.WriteLine($"Yes! 56 is my favorite number!");
+                Console.WriteLine($"Yes, {guess} is my favorite number!");
             }
-                
-       
-
-
-         
+                                 
         }
     }
 }
